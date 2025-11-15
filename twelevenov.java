@@ -1,6 +1,8 @@
 import java.util.*;
 public class twelevenov {
     public static void main(String args[]){
+        
+        //VARIABLES AND DATA TYPE
         // Scanner sc=new Scanner(System.in);
         // int a=sc.nextInt();
         // int b=sc.nextInt();
@@ -39,6 +41,8 @@ public class twelevenov {
         // System.out.println($);
 
 
+
+        //OPERATORS
         // int x=2,y=5;
         // int exp1=(x*y/x);
         // int exp2=(x*(y/x));
@@ -73,10 +77,10 @@ public class twelevenov {
         // System.out.println(exp);
 
 
-        int x=10,y=5;
-        int exp1=(y*(x/y + x/y));
-        int exp2=(y*x/y+y*x/y);
-        System.out.println(exp1);
-        System.out.println(exp2);
+        // int x=10,y=5;
+        // int exp1=(y*(x/y + x/y));
+        // int exp2=(y*x/y+y*x/y);
+        // System.out.println(exp1);
+        // System.out.println(exp2);
     }
 }
